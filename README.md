@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I am a software engineer with 3 years of experience. Currently, I am working on my Master degree in Computer Science from the Johns Hopkins University and have since gained experience working on a variety of projects ranging from web development to mobile app development. I am constantly looking to learn and grow as a software engineer and am excited to take on new challenges and projects.
+Currently, I am working on my Master degree in Computer Science from the Johns Hopkins University and have since gained experience working on a variety of projects ranging from web development to mobile app development. I am constantly looking to learn and grow as a software engineer and am excited to take on new challenges and projects.
 
 * 🌍  I'm based in Chicago
 * ✉️  You can contact me at [jwzeng2@gmail.com](mailto:jwzeng2@gmail.com)
